@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1c7f398-7fcd-4bf7-a0da-6fc46217dd90" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/courses/adminx.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/courses/adminx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/operation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/operation/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/users/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="d1c7f398-7fcd-4bf7-a0da-6fc46217dd90" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -367,7 +362,7 @@
       <workItem from="1554259476394" duration="4382000" />
       <workItem from="1554686881625" duration="6825000" />
       <workItem from="1554773281000" duration="18249000" />
-      <workItem from="1554859585323" duration="5746000" />
+      <workItem from="1554859585323" duration="6246000" />
     </task>
     <task id="LOCAL-00001" summary="add a organization file">
       <created>1553653943179</created>
@@ -416,7 +411,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105534000" />
+    <option name="totallyTimeSpent" value="106034000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
