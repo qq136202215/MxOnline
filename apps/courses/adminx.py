@@ -33,7 +33,7 @@ class CourseResourceAdmin(object):
     list_filter = ['course', 'name', 'download', 'add_time']
 
 
+xadmin.site.register(CourseResource, CourseResourceAdmin)
 xadmin.site.register(Course, CourseAdmin)
 xadmin.site.register(Lesson, LessonAdmin)
 xadmin.site.register(Video, VideoAdmin)
-xadmin.site.register(CourseResource, CourseResourceAdmin)
